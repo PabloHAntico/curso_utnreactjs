@@ -1,0 +1,22 @@
+body {
+    background-color: #EBEBEB;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 40px;
+}
+h3 {
+    color: lightseagreen;
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+.bordes {
+    border-top: 0;
+    border-left: 0;
+    border-bottom: 2px solid lightgray ;
+    border-right: 2px solid lightgray ;
+}
+button {
+    padding: 10px;
+}
